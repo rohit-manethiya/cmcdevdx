@@ -1,0 +1,205 @@
+[
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app",
+        {
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1504518770000,
+            "changeTime": 1504518770000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main",
+        {
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1504518770000,
+            "changeTime": 1504518770000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 68,
+            "modifiedTime": 1504518770000,
+            "changeTime": 1504518770000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation",
+        {
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1504519294000,
+            "changeTime": 1504519294000,
+            "contentHash": "14a1ee14f74bba9516adcb8e913f6889db2f844e",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/objects/Account__c/Account__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/objects/Account__c/Account__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2135,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "229cfd13728149bf33a2945b2d734af5e5c3a146"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/layouts/Account__c-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/layouts/Account__c-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3981,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "a6024528e4cc97fd3e3c60b667c2daf3cb3633c7"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 3981,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "a6024528e4cc97fd3e3c60b667c2daf3cb3633c7"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4319,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "b7568e0d816f9d2386f3a52f810b0301ea6cc815"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 16785,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "d0b0fb60e6025aad2a7725480759a5b354ba2513"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/objects/Account__c",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/objects/Account__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "017d7b91733ff5a7255b85184704838c3cb50956"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "ebae9ff2c31adf41cd625e7feed2155ea5af9735"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "78a3b4754a463b089aab4fa0ce6309bc0d0661b7"
+        }
+    ],
+    [
+        "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rohitmanethiya/Documents/geolocation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1504519694000,
+            "changeTime": 1504519694000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
